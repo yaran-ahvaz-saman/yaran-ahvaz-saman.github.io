@@ -1,0 +1,57 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+7:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+6:X
+30:X
+30:C
+0:{"buildId":"cD8GNIZyAbypy9x5OsCYd","data":[{"rsc":["$","$1","c",{"children":[[null,["$","main",null,{"id":"main-content","children":[["$","section",null,{"className":"interior-hero","children":["$","div",null,{"className":"shell interior-grid","children":[["$","div",null,{"className":"interior-title-group","children":[["$","div",null,{"className":"page-icon-shell","children":["$","svg",null,{"className":"page-icon ","viewBox":"0 0 48 48","aria-hidden":"true","children":[["$","circle",null,{"cx":"24","cy":"24","r":"18"}],["$","path",null,{"d":"M30 18a8 8 0 1 0 0 12"}]]}]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{"aria-hidden":"true"}],"حقوق مؤلف و استفاده مجاز"]}],["$","h1",null,{"children":"دانش فنی برای استفاده است، نه برای برداشت بی‌اجازه"}]]}]]}],["$","p",null,{"className":"interior-lead","children":"کتاب، تصویر، نمودار، متن آموزشی و نشان تجاری هر کدام صاحب حق دارند. دسترسی به سایت دعوت به یادگیری است؛ نه مجوز برای بازنشر، فروش، ترجمه یا اقتباس بدون هماهنگی."}]]}]}],["$","section",null,{"className":"section interior-content","children":["$","div",null,{"className":"shell section-stack","children":[["$","article","کتاب‌های مهندس کمال دیلمی",{"className":"content-row","children":[["$","span",null,{"className":"content-index","children":[["$","svg",null,{"className":"page-icon ","viewBox":"0 0 48 48","aria-hidden":"true","children":[["$","circle",null,{"cx":"24","cy":"24","r":"18"}],["$","path",null,{"d":"M30 18a8 8 0 1 0 0 12"}]]}],["$","b",null,{"children":["0",1]}]]}],["$","div",null,{"children":["$","h2",null,{"children":"کتاب‌های مهندس کمال دیلمی"}]}],["$","div",null,{"children":[["$","p",null,{"children":"هرگونه انتشار کامل یا بخش عمده، ترجمه، تبدیل به دوره، فروش فایل یا بازتولید تجاری کتاب‌ها نیازمند اجازه کتبی صاحب حق و رعایت قرارداد ناشر است."}],"$undefined"]}]]}],["$","article","نقل محدود",{"className":"content-row","children":[["$","span",null,{"className":"content-index","children":[["$","svg",null,{"className":"page-icon ","viewBox":"0 0 48 48","aria-hidden":"true","children":[["$","circle",null,{"cx":"24","cy":"24","r":"18"}],["$","path",null,{"d":"M30 18a8 8 0 1 0 0 12"}]]}],["$","b",null,{"children":["0",2]}]]}],["$","div",null,{"children":["$","h2",null,{"children":"نقل محدود"}]}],["$","div",null,{"children":[["$","p",null,{"children":"نقل کوتاه برای نقد، آموزش یا معرفی باید در حد متعارف، همراه با نام مؤلف و مشخصات منبع باشد و نباید عملاً جایگزین اثر اصلی شود."}],"$undefined"]}]]}],["$","article","گزارش تخلف یا درخواست مجوز",{"className":"content-row","children":[["$","span",null,{"className":"content-index","children":[["$","svg",null,{"className":"page-icon ","viewBox":"0 0 48 48","aria-hidden":"true","children":[["$","circle",null,{"cx":"24","cy":"24","r":"18"}],["$","path",null,{"d":"M30 18a8 8 0 1 0 0 12"}]]}],["$","b",null,{"children":["0",3]}]]}],["$","div",null,{"children":["$","h2",null,{"children":"گزارش تخلف یا درخواست مجوز"}]}],["$","div",null,{"children":[["$","p",null,{"children":"برای درخواست مجوز استفاده یا گزارش محتوای ناقض حق، با yas.co.iran@gmail.com تماس بگیرید و عنوان اثر، نوع استفاده و نشانی محل انتشار را ذکر کنید."}],"$undefined"]}]]}]]}]}],false,false,false,false,false,false,false,["$","section",null,{"className":"contact-band","children":["$","div",null,{"className":"shell contact-band-inner","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{"aria-hidden":"true"}],"ارسال درخواست پروژه"]}],["$","h2",null,{"children":"از یک گفت‌وگوی فنیِ خوب شروع کنیم."}]]}],["$","div",null,{"className":"contact-actions","children":[["$","a",null,{"className":"button button-light","href":"tel:+982191007323","children":["تماس"," · ",["$","span",null,{"dir":"ltr","children":"+98 21 9100 7323"}]]}],["$","a",null,{"className":"text-link light","href":"mailto:yas.co.iran@gmail.com?subject=RFQ%20%2F%20%D8%AF%D8%B1%D8%AE%D9%88%D8%A7%D8%B3%D8%AA%20%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C%20%D9%81%D9%86%DB%8C","children":["تماس و ارسال RFQ",["$","svg",null,{"viewBox":"0 0 24 24","aria-hidden":"true","children":["$","path",null,{"d":"M5 12h14M13 6l6 6-6 6"}]}]]}]]}]]}]}]]}]],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":"$@5","staleTime":"$6","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L7",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#062f2c"}],["$","meta","3",{"name":"color-scheme","content":"light"}]]}],["$","div",null,{"hidden":true,"children":["$","$L8",null,{"children":["$","$3",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"دانش فنی برای استفاده است، نه برای برداشت بی‌اجازه | یاس"}],"$L9","$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c"]}]}]}],null]}],"isPartial":"$@2d","staleTime":"$6","varyParams":null},{"rsc":"$L2e","isPartial":"$@2f","staleTime":"$6","varyParams":"$30"}],"isUpgradeableISRFallback":false,"a":"$@31","rootVaryParams":null,"needsRuntimeRequest":"$@32"}
+33:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+34:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+35:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+4:null
+9:["$","meta","1",{"name":"description","content":"کتاب، تصویر، نمودار، متن آموزشی و نشان تجاری هر کدام صاحب حق دارند. دسترسی به سایت دعوت به یادگیری است؛ نه مجوز برای بازنشر، فروش، ترجمه یا اقتباس بدون هماهنگی."}]
+a:["$","meta","2",{"name":"application-name","content":"YAS"}]
+b:["$","link","3",{"rel":"author","href":"https://yas.co.ir"}]
+c:["$","meta","4",{"name":"author","content":"Yaran Ahvaz Saman Co."}]
+d:["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}]
+e:["$","meta","6",{"name":"creator","content":"Yaran Ahvaz Saman Co."}]
+f:["$","meta","7",{"name":"publisher","content":"Yaran Ahvaz Saman Co."}]
+10:["$","meta","8",{"name":"robots","content":"index, follow"}]
+11:["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}]
+12:["$","meta","10",{"name":"category","content":"Oilfield services"}]
+13:["$","link","11",{"rel":"canonical","href":"https://yas.co.ir/fa/copyright/"}]
+14:["$","link","12",{"rel":"alternate","hrefLang":"fa","href":"https://yas.co.ir/fa/copyright/"}]
+15:["$","link","13",{"rel":"alternate","hrefLang":"en","href":"https://yas.co.ir/en/copyright/"}]
+16:["$","link","14",{"rel":"alternate","hrefLang":"x-default","href":"https://yas.co.ir/fa/copyright/"}]
+17:["$","meta","15",{"name":"format-detection","content":"telephone=no, address=no, email=no"}]
+18:["$","meta","16",{"property":"og:title","content":"دانش فنی برای استفاده است، نه برای برداشت بی‌اجازه"}]
+19:["$","meta","17",{"property":"og:description","content":"کتاب، تصویر، نمودار، متن آموزشی و نشان تجاری هر کدام صاحب حق دارند. دسترسی به سایت دعوت به یادگیری است؛ نه مجوز برای بازنشر، فروش، ترجمه یا اقتباس بدون هماهنگی."}]
+1a:["$","meta","18",{"property":"og:url","content":"https://yas.co.ir/fa/copyright/"}]
+1b:["$","meta","19",{"property":"og:site_name","content":"YAS"}]
+1c:["$","meta","20",{"property":"og:locale","content":"fa_IR"}]
+1d:["$","meta","21",{"property":"og:image","content":"https://yas.co.ir/brand/yas-social-card.jpg"}]
+1e:["$","meta","22",{"property":"og:image:width","content":"1200"}]
+1f:["$","meta","23",{"property":"og:image:height","content":"630"}]
+20:["$","meta","24",{"property":"og:image:alt","content":"YAS — Yaran Ahvaz Saman oilfield and wellhead services"}]
+21:["$","meta","25",{"property":"og:type","content":"website"}]
+22:["$","meta","26",{"name":"twitter:card","content":"summary_large_image"}]
+23:["$","meta","27",{"name":"twitter:title","content":"دانش فنی برای استفاده است، نه برای برداشت بی‌اجازه"}]
+24:["$","meta","28",{"name":"twitter:description","content":"کتاب، تصویر، نمودار، متن آموزشی و نشان تجاری هر کدام صاحب حق دارند. دسترسی به سایت دعوت به یادگیری است؛ نه مجوز برای بازنشر، فروش، ترجمه یا اقتباس بدون هماهنگی."}]
+25:["$","meta","29",{"name":"twitter:image","content":"https://yas.co.ir/brand/yas-social-card.jpg"}]
+26:["$","link","30",{"rel":"shortcut icon","href":"/favicon.ico"}]
+27:["$","link","31",{"rel":"icon","href":"/favicon.ico","sizes":"48x48","type":"image/x-icon"}]
+28:["$","link","32",{"rel":"icon","href":"/favicon-48.png","sizes":"48x48","type":"image/png"}]
+29:["$","link","33",{"rel":"icon","href":"/brand/yas-icon-192.png","sizes":"192x192","type":"image/png"}]
+2a:["$","link","34",{"rel":"icon","href":"/brand/yas-favicon.png","sizes":"512x512","type":"image/png"}]
+2b:["$","link","35",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}]
+2c:["$","$L33","36",{}]
+2e:["$","$1","c",{"children":[null,["$","$L34",null,{"parallelRouterKey":"children","template":["$","$L35",null,{}]}]]}]
+32:true
+6:300
+6:C
+31:0
+2d:"$undefined"
+2f:"$undefined"
+5:"$undefined"
